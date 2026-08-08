@@ -2,12 +2,9 @@
 
 GlobusOS File System — File Manager, ATCFS Integration (ATCLang)
 
-> **Organisation:** A-TownChain-Okosystems  
-> **Sprache:** ATCLang (.atc)  
-> **Layer:** L7/L3  
-> **Sprint:** 3.0  
-> **ATC-Standard:** ATC-24  
-> **Erstellt:** 2026-08-08  
+> **Organisation:** A-TownChain-Okosystems
+> **Sprache:** ATCLang (.atc)
+> **Erstellt:** 2026-08-08
 > **Agent:** Aurora (MasterBrain · Base44)
 
 ## Architektur
@@ -21,10 +18,6 @@ Siehe [COMPONENT_PLAN.md](COMPONENT_PLAN.md)
 ## Status
 
 Siehe [STATUS.md](STATUS.md)
-
-## Roadmap
-
-Siehe [ROADMAP.md](ROADMAP.md)
 
 ---
 *Auto-generiert 2026-08-08 · Aurora (MasterBrain · Base44)*
